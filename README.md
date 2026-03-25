@@ -1,4 +1,4 @@
-# RAG Inbox Project (Turium_backend)
+# RAG Inbox Project 
  
  A lightweight Django project that provides a Retrieval-Augmented Generation (RAG) style API for managing content, splitting it into chunks, and querying via an LLM-backed service.
  
