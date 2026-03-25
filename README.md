@@ -1,4 +1,4 @@
-# RAG Inbox Project 
+# AI Knowledge Inbox
  
  A lightweight Django project that provides a Retrieval-Augmented Generation (RAG) style API for managing content, splitting it into chunks, and querying via an LLM-backed service.
  
